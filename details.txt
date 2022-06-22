@@ -1,0 +1,38 @@
+Data Structures: 
+1) Array
+    a) 1-D
+    b) 2-Data
+
+2) Linked List
+    a)Single LL
+    b) Doubly LL
+    c) Circular LL
+
+3) Stack
+
+4) Queue
+    a) Queue
+    b) Circular Queue
+    c) Priority Queue
+    d) Doubly Ended Queue (Deque)
+
+5) Hash Table
+
+6) Heap
+    a) General Heap
+    b) Fibonacci Heap
+
+7) Tree
+    a) General Tree
+    b) Binary Tree
+    c) Binary Search Tree
+    d) AVL Tree
+    e) B-Tree
+    f) B+ Tree
+    g) Red Black Tree
+    h) Trie
+
+8) Graph
+    a) Directed Graph
+    b) Undirected Graph
+
